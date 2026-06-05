@@ -102,7 +102,6 @@
 
 
 
-
 # Letterbox.
 
 A tiny Go program to batch-process letter-boxing of photographs.
